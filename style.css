@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family:'Black Han Sans';
+}
+
+#invite_bot {
+    color: white;
+    text-decoration: none;
+    border: solid 1px white;
+}
+
+#logoimg {
+    width: 15%;
+}
+
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 160px;
+    margin-left: -150px;
+    margin-top: -130px;
+}
+
+footer {
+
+    position: absolute;
+
+    left: 0;
+
+    bottom: 0;
+
+    width: 100%;
+
+	padding: 15px 0;
+
+	text-align: center;
+
+	color: black;
+
+	background: white;
+
+}
